@@ -15,23 +15,23 @@ Chains amount is 7 (8 hits total).
 
 If chaining range matches pconc radius
 
-## 20% Crit rate
+## 0.2m enemy hitbox
 
 ![visualisation](plot_0.2m.png)
 
-## 40% Crit rate
+## 0.4m enemy hitbox
 
 ![visualisation](plot_0.4m.png)
 
-## 60% Crit rate
+## 0.6m enemy hitbox
 
 ![visualisation](plot_0.6m.png)
 
-## 80% Crit rate
+## 0.8m enemy hitbox
 
 ![visualisation](plot_0.8m.png)
 
-## 100% Crit rate
+## 1.0m enemy hitbox
 
 ![visualisation](plot_1.0m.png)
 
@@ -39,22 +39,22 @@ If chaining range matches pconc radius
 
 If chaining range is half of pconc radius
 
-## 20% Crit rate
+## 0.2m enemy hitbox
 
 ![visualisation](plot_0.2m_half_chain_range.png)
 
-## 40% Crit rate
+## 0.4m enemy hitbox
 
 ![visualisation](plot_0.4m_half_chain_range.png)
 
-## 60% Crit rate
+## 0.6m enemy hitbox
 
 ![visualisation](plot_0.6m_half_chain_range.png)
 
-## 80% Crit rate
+## 0.8m enemy hitbox
 
 ![visualisation](plot_0.8m_half_chain_range.png)
 
-## 100% Crit rate
+## 1.0m enemy hitbox
 
 ![visualisation](plot_1.0m_half_chain_range.png)
