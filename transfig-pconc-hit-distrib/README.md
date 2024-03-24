@@ -8,7 +8,7 @@ Chains amount is 7 (8 hits total).
 
 # TLDR
 
-~ 55% overlaps or more if chaining range = pconc radius
+~ 43% overlaps or more if chaining range = pconc radius
 ~ 75% overlaps or more if chaining range = 50% of pconc radius
 
 # Plots
